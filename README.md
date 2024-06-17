@@ -1,7 +1,7 @@
 # LAPS-Extractor
  
 ## Overview
-Get-LapsPassword is a PowerShell script designed to retrieve LAPS (Local Administrator Password Solution) passwords for computers in an Active Directory environment. The script automates the process of querying organizational units (OUs) for computers with LAPS passwords and checking user permissions for reading these passwords.
+LAPS-Extractor is a PowerShell script designed to retrieve LAPS (Local Administrator Password Solution) passwords for computers in an Active Directory environment. The script automates the process of querying organizational units (OUs) for computers with LAPS passwords and checking user permissions for reading these passwords.
  
 ## Features
 Retrieve LAPS passwords for computers within specified OUs.
