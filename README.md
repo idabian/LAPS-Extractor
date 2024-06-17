@@ -16,7 +16,7 @@ OutFile (optional): Path to a file where retrieved LAPS passwords will be logged
  
 ## Example Usage
 ### Retrieve LAPS passwords for all computers in a specified OU and output to a file
-.\GetLapsPasswords.ps1 -ComputerList "C:\Path\To\ComputerList.txt" -OutFile "C:\Path\To\Output.csv"
+.\LAPS-Extractor.ps1 -ComputerList "C:\Path\To\ComputerList.txt" -OutFile "C:\Path\To\Output.csv"
  
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any improvements, bug fixes, or suggestions.
